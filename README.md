@@ -10,4 +10,4 @@
 ## Hasil Screenshot
 
 ![Screenshot App]
-(Hasil Run App.png)
+(./Hasil Run App.png)
